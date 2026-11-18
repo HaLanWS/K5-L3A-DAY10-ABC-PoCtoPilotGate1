@@ -1,12 +1,14 @@
 {
-  "team": "",
-  "members": [],
-  "incident": "",
-  "decision_v1": "",
-  "decision_v2": "",
+  "team": "K5-L3A-DAY10-ABC-PoCtoPilotGate1",
+  "members": [
+    "TranNguyenHaLan-20241010"
+  ],
+  "incident": "S1",
+  "decision_v1": "Tiếp tục",
+  "decision_v2": "Tiếp tục",
   "three_lines": {
-    "environment_assumption": "",
-    "reduce_or_prevent": "",
-    "measure_in_pilot": ""
+    "environment_assumption": "Hệ thống giả định rằng dữ liệu ngày giao hàng thực tế và nguyên nhân trễ trong tracking DB luôn được shipper quét và cập nhật kịp thời, không có độ trễ đồng bộ.",
+    "reduce_or_prevent": "Cổng write_gate đối chiếu nguồn sự thật tracking DB giúp ngăn chặn hoàn toàn việc hoàn tiền sai và phạt oan hãng do prompt injection hoặc sai lệch model.",
+    "measure_in_pilot": "Cần đo lường tỉ lệ khiếu nại thực tế từ các đối tác vận chuyển và tỉ lệ sai lệch giữa quét mã thực địa với cập nhật tracking trước Bước đánh giá 2."
   }
 }
