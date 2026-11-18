@@ -13,7 +13,7 @@ Họ tên đầy đủ và MSSV của **mọi** thành viên; thêm dòng nếu 
 
 | STT | Họ và tên | MSSV | Vai | Trưởng nhóm |
 | --: | --------- | ---- | --- | :---------: |
-|   1 | Trần Nguyễn Hà Lan | 20241010 | Kỹ sư cổng · Sản phẩm & kinh doanh · Vận hành & pháp lý | x |
+|   1 | Trần Nguyễn Hà Lan | 2A202603619 | Kỹ sư cổng · Sản phẩm & kinh doanh · Vận hành & pháp lý | x |
 
 Ghi `members` trong `submission/submission.json` theo dạng `"HoVaTen-MSSV"`, khớp bảng trên.
 
@@ -21,7 +21,7 @@ Ghi `members` trong `submission/submission.json` theo dạng `"HoVaTen-MSSV"`, k
 
 Mỗi thành viên tự viết một mục bên dưới (chép mẫu, đổi tiêu đề thành họ tên không dấu và MSSV, ví dụ `## NguyenVanAn-20241234`).
 
-## TranNguyenHaLan-20241010
+## TranNguyenHaLan-2A202603619
 
 ### Phần việc phụ trách
 
